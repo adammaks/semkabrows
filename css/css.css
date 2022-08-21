@@ -61,7 +61,7 @@
 .two_block_photo{
     width: 100%;
     height: 500px;
-    background: url('../img/2.JPG') no-repeat;
+    background: url('../img/2.jpg') no-repeat;
     background-size: cover;
     grid-column: 4 / 6;
     grid-row: 3 / 3;
